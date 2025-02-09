@@ -54,7 +54,9 @@ Este projeto foi desenvolvido para consolidar os conceitos sobre o uso de interf
    - Use os botões A e B para alternar o estado dos LEDs RGB.
 
 ## Vídeo de Demonstração:
-- [Link para o vídeo de demonstração]() 
+
+[![Demonstração na Placa](https://img.youtube.com/vi/kE9x9r7A8eQ/0.jpg)](https://youtu.be/kE9x9r7A8eQ)
+- [Link para o vídeo de demonstração](https://youtu.be/kE9x9r7A8eQ) 
 
 ## Considerações Finais:
 Este projeto oferece uma excelente oportunidade para aplicar e consolidar os conhecimentos adquiridos sobre comunicação serial, manipulação de LEDs e displays, interrupções, e uso de botões em sistemas embarcados.
